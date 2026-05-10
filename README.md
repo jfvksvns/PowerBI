@@ -1,47 +1,188 @@
-📊 Power BI Projects Repository
+# Power BI Learning Repository
 
-Welcome to my Power BI repository!
-This repository contains a collection of Power BI dashboards and reports that I have created for learning, practice, and real-world data analysis.
+## 📌 About This Repository
+This repository contains my Power BI practice work, dashboards, reports, DAX concepts, Power Query transformations, and data visualization exercises developed during my learning journey in Business Intelligence and Data Analytics.
 
-📁 Repository Structure
+The main objective of this repository is to demonstrate practical knowledge in:
+- Data Visualization
+- Data Cleaning & Transformation
+- Data Modeling
+- DAX Calculations
+- Interactive Dashboard Development
+- Power BI Service Integration
 
-Each file or folder in this repository represents an individual Power BI project. It may include:
+---
 
-.pbix files (Power BI reports)
-Dataset files used in the project
-Dashboard screenshots (if added)
-Project-specific notes or documentation
-🛠 Tools & Technologies Used
-Power BI Desktop
-Power Query (Data Cleaning & Transformation)
-DAX (Data Analysis Expressions)
-Data Modeling
-Data Visualization Techniques
-📌 Key Features
-Interactive dashboards and reports
-Clean and intuitive visual design
-Data-driven insights
-Use of advanced DAX calculations
-Real-world dataset analysis
-📷 Dashboard Previews
+# 🚀 Technologies Used
 
-(Add screenshots of your dashboards here for better visualization)
+- Microsoft Power BI Desktop
+- Power Query Editor
+- DAX (Data Analysis Expressions)
+- Microsoft Excel
+- Power BI Service
 
-![Dashboard Preview](your-image-path.png)
-📥 How to Use
-Download any .pbix file from the repository
-Open it using Power BI Desktop
-Explore and interact with the dashboard
-📚 Purpose
+---
 
-This repository is part of my journey in:
+# 📊 Topics Covered
 
-Data Analysis
-Business Intelligence
-Data Visualization
-🤝 Feedback & Suggestions
+## Data Visualization
+- Bar Charts
+- Column Charts
+- Pie Charts
+- Donut Charts
+- KPI Cards
+- Tables & Matrix
+- Slicers
+- Drill Down Reports
+- Interactive Dashboards
 
-Feedback is always welcome! Feel free to suggest improvements or ideas.
+---
 
-📬 Contact
-GitHub: jfvksvns
+## Power Query
+- Data Cleaning
+- Data Transformation
+- Merge Queries
+- Append Queries
+- Conditional Columns
+- Data Formatting
+- Removing Null Values
+- Data Preparation
+
+---
+
+## Data Modeling
+- Relationships
+- Cardinality
+- Star Schema Concepts
+- Filter Direction
+- Optimized Data Models
+
+---
+
+## DAX Functions
+- Measures
+- Calculated Columns
+- Aggregate Functions
+- Filter Functions
+- RankX
+- Variables
+- Context Handling
+
+---
+
+## Time Intelligence
+- Year-to-Date (YTD)
+- SAMEPERIODLASTYEAR
+- DATEADD
+- DATESYTD
+- Month-over-Month Analysis
+- Year-over-Year Analysis
+
+---
+
+## Advanced Features
+- Bookmarks
+- Parameters
+- Tooltips
+- Sync Slicers
+- Drill Down
+- Dynamic Reports
+
+---
+
+## Power BI Service
+- Report Publishing
+- Workspace Management
+- Dataset Refresh
+- Data Gateway
+- Dashboard Sharing
+
+---
+
+# 📂 Repository Contents
+
+```bash
+PowerBI/
+│
+├── Dashboards/
+├── Reports/
+├── Datasets/
+├── DAX/
+├── PowerQuery/
+├── PracticeFiles/
+└── README.md
+```
+
+---
+
+# 🎯 Learning Outcomes
+
+Through these projects and practice exercises, I gained hands-on experience in:
+
+- Building professional dashboards
+- Creating business reports
+- Writing DAX formulas
+- Performing ETL using Power Query
+- Designing interactive visualizations
+- Managing data models
+- Publishing reports using Power BI Service
+
+---
+
+# 📈 Repository Purpose
+
+This repository is maintained for:
+- Learning and Practice
+- Portfolio Showcase
+- Interview Preparation
+- Skill Development
+- Project Demonstration
+
+---
+
+# 🔥 Future Improvements
+
+- Real-time Business Dashboards
+- SQL Integration with Power BI
+- API Data Integration
+- Advanced DAX Optimization
+- Row Level Security (RLS)
+- End-to-End Analytics Projects
+
+---
+
+# 👨‍💻 Author
+
+## Guru
+
+Aspiring Data Analyst | Power BI Enthusiast | CSE Student
+
+### Skills
+- Power BI
+- SQL
+- Python
+- Java
+- DBMS
+- Data Analytics
+
+---
+
+# 📌 GitHub Repository
+
+🔗 Repository Link:  
+https://github.com/jfvksvns/PowerBI
+
+---
+
+# ⭐ Support
+
+If you found this repository useful:
+- Star ⭐ the repository
+- Fork 🍴 the project
+- Connect for collaboration
+
+---
+
+# 📖 Note
+
+This repository is created for educational and practice purposes to improve Power BI and Business Intelligence skills through hands-on implementation.
