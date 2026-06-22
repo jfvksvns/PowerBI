@@ -11,7 +11,6 @@ The main objective of this repository is to demonstrate practical knowledge in:
 - Interactive Dashboard Development
 - Power BI Service Integration
 
----
 
 # 🚀 Technologies Used
 
@@ -21,7 +20,7 @@ The main objective of this repository is to demonstrate practical knowledge in:
 - Microsoft Excel
 - Power BI Service
 
----
+
 
 # 📊 Topics Covered
 
@@ -36,7 +35,7 @@ The main objective of this repository is to demonstrate practical knowledge in:
 - Drill Down Reports
 - Interactive Dashboards
 
----
+
 
 ## Power Query
 - Data Cleaning
@@ -48,7 +47,7 @@ The main objective of this repository is to demonstrate practical knowledge in:
 - Removing Null Values
 - Data Preparation
 
----
+
 
 ## Data Modeling
 - Relationships
@@ -57,7 +56,7 @@ The main objective of this repository is to demonstrate practical knowledge in:
 - Filter Direction
 - Optimized Data Models
 
----
+
 
 ## DAX Functions
 - Measures
@@ -68,7 +67,7 @@ The main objective of this repository is to demonstrate practical knowledge in:
 - Variables
 - Context Handling
 
----
+
 
 ## Time Intelligence
 - Year-to-Date (YTD)
@@ -78,7 +77,7 @@ The main objective of this repository is to demonstrate practical knowledge in:
 - Month-over-Month Analysis
 - Year-over-Year Analysis
 
----
+
 
 ## Advanced Features
 - Bookmarks
@@ -88,7 +87,7 @@ The main objective of this repository is to demonstrate practical knowledge in:
 - Drill Down
 - Dynamic Reports
 
----
+
 
 ## Power BI Service
 - Report Publishing
@@ -97,7 +96,7 @@ The main objective of this repository is to demonstrate practical knowledge in:
 - Data Gateway
 - Dashboard Sharing
 
----
+
 
 # 📂 Repository Contents
 
@@ -113,7 +112,6 @@ PowerBI/
 └── README.md
 ```
 
----
 
 # 🎯 Learning Outcomes
 
@@ -127,7 +125,7 @@ Through these projects and practice exercises, I gained hands-on experience in:
 - Managing data models
 - Publishing reports using Power BI Service
 
----
+
 
 # 📈 Repository Purpose
 
@@ -138,7 +136,7 @@ This repository is maintained for:
 - Skill Development
 - Project Demonstration
 
----
+
 
 # 🔥 Future Improvements
 
@@ -149,7 +147,7 @@ This repository is maintained for:
 - Row Level Security (RLS)
 - End-to-End Analytics Projects
 
----
+
 
 # 👨‍💻 Author
 
@@ -165,14 +163,14 @@ Aspiring Data Analyst | Power BI Enthusiast | CSE Student
 - DBMS
 - Data Analytics
 
----
+
 
 # 📌 GitHub Repository
 
 🔗 Repository Link:  
 https://github.com/jfvksvns/PowerBI
 
----
+
 
 # ⭐ Support
 
@@ -181,7 +179,7 @@ If you found this repository useful:
 - Fork 🍴 the project
 - Connect for collaboration
 
----
+
 
 # 📖 Note
 
