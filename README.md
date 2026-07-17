@@ -1,6 +1,6 @@
-# Power BI Learning Repository
+Power BI Learning Repository
 
-## 📌 About This Repository
+ 📌 About This Repository
 This repository contains my Power BI practice work, dashboards, reports, DAX concepts, Power Query transformations, and data visualization exercises developed during my learning journey in Business Intelligence and Data Analytics.
 
 The main objective of this repository is to demonstrate practical knowledge in:
