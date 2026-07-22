@@ -12,7 +12,7 @@ The main objective of this repository is to demonstrate practical knowledge in:
 - Power BI Service Integration
 
 
-# 🚀 Technologies Used
+ 🚀 Technologies Used
 
 - Microsoft Power BI Desktop
 - Power Query Editor
@@ -22,9 +22,9 @@ The main objective of this repository is to demonstrate practical knowledge in:
 
 
 
-# 📊 Topics Covered
+📊 Topics Covered
 
-## Data Visualization
+Data Visualization
 - Bar Charts
 - Column Charts
 - Pie Charts
@@ -37,7 +37,7 @@ The main objective of this repository is to demonstrate practical knowledge in:
 
 
 
-## Power Query
+ Power Query
 - Data Cleaning
 - Data Transformation
 - Merge Queries
@@ -49,7 +49,7 @@ The main objective of this repository is to demonstrate practical knowledge in:
 
 
 
-## Data Modeling
+Data Modeling
 - Relationships
 - Cardinality
 - Star Schema Concepts
@@ -58,7 +58,7 @@ The main objective of this repository is to demonstrate practical knowledge in:
 
 
 
-## DAX Functions
+DAX Functions
 - Measures
 - Calculated Columns
 - Aggregate Functions
@@ -69,7 +69,7 @@ The main objective of this repository is to demonstrate practical knowledge in:
 
 
 
-## Time Intelligence
+Time Intelligence
 - Year-to-Date (YTD)
 - SAMEPERIODLASTYEAR
 - DATEADD
@@ -79,7 +79,7 @@ The main objective of this repository is to demonstrate practical knowledge in:
 
 
 
-## Advanced Features
+Advanced Features
 - Bookmarks
 - Parameters
 - Tooltips
@@ -89,7 +89,7 @@ The main objective of this repository is to demonstrate practical knowledge in:
 
 
 
-## Power BI Service
+Power BI Service
 - Report Publishing
 - Workspace Management
 - Dataset Refresh
@@ -98,7 +98,7 @@ The main objective of this repository is to demonstrate practical knowledge in:
 
 
 
-# 📂 Repository Contents
+📂 Repository Contents
 
 ```bash
 PowerBI/
@@ -113,7 +113,7 @@ PowerBI/
 ```
 
 
-# 🎯 Learning Outcomes
+🎯 Learning Outcomes
 
 Through these projects and practice exercises, I gained hands-on experience in:
 
@@ -127,7 +127,7 @@ Through these projects and practice exercises, I gained hands-on experience in:
 
 
 
-# 📈 Repository Purpose
+📈 Repository Purpose
 
 This repository is maintained for:
 - Learning and Practice
@@ -138,7 +138,7 @@ This repository is maintained for:
 
 
 
-# 🔥 Future Improvements
+🔥 Future Improvements
 
 - Real-time Business Dashboards
 - SQL Integration with Power BI
