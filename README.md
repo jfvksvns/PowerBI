@@ -149,13 +149,13 @@ This repository is maintained for:
 
 
 
-# 👨‍💻 Author
+ 👨‍💻 Author
 
-## Guru
+ Guru
 
 Aspiring Data Analyst | Power BI Enthusiast | CSE Student
 
-### Skills
+ Skills
 - Power BI
 - SQL
 - Python
@@ -165,14 +165,14 @@ Aspiring Data Analyst | Power BI Enthusiast | CSE Student
 
 
 
-# 📌 GitHub Repository
+📌 GitHub Repository
 
 🔗 Repository Link:  
 https://github.com/jfvksvns/PowerBI
 
 
 
-# ⭐ Support
+⭐ Support
 
 If you found this repository useful:
 - Star ⭐ the repository
@@ -181,6 +181,6 @@ If you found this repository useful:
 
 
 
-# 📖 Note
+ 📖 Note
 
 This repository is created for educational and practice purposes to improve Power BI and Business Intelligence skills through hands-on implementation.
